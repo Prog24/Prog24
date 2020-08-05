@@ -4,3 +4,9 @@
 [![facebook badge](https://img.shields.io/badge/facebook-suzuki.kenta.0808-3B5998?style=flat-square&logo=facebook)](https://fb.me/suzuki.kenta.0808)
 
 ### Hello World!!
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Prog24&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prog24" />
+</a>
